@@ -12,6 +12,7 @@ def fetch_income_data():
         "get": "B19013_001E,NAME",
         "for": "zip code tabulation area:*",
         "key": CENSUS_API_KEY
+        
     }
     r = requests.get(url, params=params)
     print("Status code:", r.status_code)
