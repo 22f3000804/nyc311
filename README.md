@@ -2,6 +2,9 @@
 
 ## The Question
 
+
+[live link](https://nyc311.streamlit.app/)
+
 I wanted to know if NYC 311 complaints resolve at different speeds depending on the income level of the neighborhood — and if so, whether that pattern is consistent across complaint types or varies.
 
 ## Why This Matters
